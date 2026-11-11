@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PawMatch - Smart Pet Adoption and Foster Matching Platform
 
 DBMS Level 3 mini project. Next.js (App Router) front end with **embedded SQL written directly in the page and server-action files**, MySQL as the main database, and MongoDB for preference storage, activity logs and pet matching.
@@ -82,3 +83,6 @@ Every SQL statement is written inline in the Next.js code (parameterised with `?
 
 ## 8. ER diagram and schema
 See `database/pawmatch_erd.png` and `database/pawmatch_relational_schema.png`.
+=======
+# PawMatch-DBMS
+>>>>>>> a6eb4aab6abe140bd19c08eb2cfcf6c8e183b46a
